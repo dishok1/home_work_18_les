@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+fastapi-users
+fastapi-users[sqlite]
+Pillow
+pandas
+openpyxl
+
