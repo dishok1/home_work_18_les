@@ -1,9 +1,8 @@
 fastapi
 uvicorn
 pydantic
-fastapi-users
-fastapi-users[sqlite]
+fastapi-users[sqlalchemy,sqlite]
+asyncpg
 Pillow
 pandas
 openpyxl
-
