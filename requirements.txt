@@ -1,8 +1,11 @@
 fastapi
-uvicorn
-pydantic
-fastapi-users[sqlalchemy,sqlite]
+fastapi-users[sqlalchemy]
+uvicorn[standard]
 asyncpg
 Pillow
-pandas
-openpyxl
+python-dotenv
+httpx
+pytest
+pydantic-settings
+aiofiles
+pytest-asyncio

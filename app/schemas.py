@@ -3,7 +3,7 @@ import uuid
 from fastapi_users import schemas
 from pydantic import BaseModel, Field
 from typing import Optional
-from docx2pdf import convert
+
 
 
 class UserRead(schemas.BaseUser[uuid.UUID]):
